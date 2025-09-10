@@ -88,3 +88,29 @@ Expand weak password dictionary
 🌐 LinkedIn
 
 💻 GitHub
+
+
+
+# 🤖 Rule-Based AI Chatbot (Trinket Project)
+
+This project is a **Python-based chatbot** inspired by the *Elements of AI* course from the University of Helsinki.  
+It demonstrates **fundamental AI concepts** like:
+
+- Rule-based reasoning (mapping inputs to outputs)
+- Handling uncertainty (fallback responses for unknown queries)
+- Simple human-computer interaction
+
+## Features
+- Responds to greetings (hi, hello, bye)
+- Explains what AI is in simple terms
+- Identifies its creator 😉
+- Fallback mechanism for unknown questions
+- Runs directly on **Trinket** (no installation or libraries needed)
+
+## How to Run
+1. Open the code in [Trinket.io](https://trinket.io).
+2. Run the program.
+3. Type your questions or greetings into the console.
+4. Type `quit` to end the conversation.
+
+## Example
